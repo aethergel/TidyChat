@@ -43,7 +43,7 @@
     </ItemGroup>
 
     <PropertyGroup>
-        <DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
+        <DalamudLibPath>$(appdata)\XIVLauncherKR\addon\Hooks\dev\</DalamudLibPath>
         <PackageIcon>icon.png</PackageIcon>
         <RepositoryUrl>https://github.com/NadyaNayme/TidyChat/</RepositoryUrl>
     </PropertyGroup>
